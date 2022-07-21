@@ -1,5 +1,5 @@
 
-# Insurance Fraud Detection
+# Fraud Insurance Claim Detection
 
 
 
@@ -10,7 +10,7 @@ We need to build a classification methodology to determine whether a customer is
 The client will send data in multiple sets of files in batches at a given location, from where we need to fetch them, validate them and then use them to build a ML Model so as to solve the classification problem. The architecture to be followed for the total ML flow is as follows:
 
 #### Architecture:
-https://snipboard.io/EflVDm.jpg
+![Screenshot 2022-07-21 122633](https://user-images.githubusercontent.com/80168511/180291435-07c50059-7db5-4d29-9831-109c233673d6.png)
 
 ### Data Description:
 
